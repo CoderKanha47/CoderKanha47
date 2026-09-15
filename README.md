@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kanha 👋
 
-<!--
-**CoderKanha47/CoderKanha47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student building full-stack,
+backend and AI-powered systems.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Full-stack applications
+• Backend APIs and workflow runtimes
+• AI/LLM-integrated products
+• Systems combining probabilistic AI with deterministic business logic
+
+## Featured Projects
+
+### FLOW
+Visual backend workflow & application runtime
+[Demo] [Repository]
+
+### Sector Guard
+AI-powered expense reimbursement auditing platform
+[Demo] [Repository]
+
+### Silent Cartographer
+AI-assisted logistics document verification
+[Demo] [Repository]
+
+## Tech
+
+TypeScript · JavaScript · Python
+Next.js · React · Node.js · FastAPI
+PostgreSQL · Prisma · Docker
+LLM APIs · Git/GitHub
+
+## Currently looking for
+
+Software Engineering / Full-Stack / Backend / AI Engineering
+internships and early-career opportunities.
