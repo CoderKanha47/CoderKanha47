@@ -33,5 +33,5 @@ LLM APIs · Git/GitHub
 
 ## Currently looking for
 
-Software Engineering / Full-Stack / Backend / AI Engineering
+AI Engineering / Software Engineering / Full-Stack / Backend internships and early-career opportunities.
 internships and early-career opportunities.
