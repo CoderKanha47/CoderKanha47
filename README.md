@@ -14,15 +14,18 @@ backend and AI-powered systems.
 
 ### FLOW
 Visual backend workflow & application runtime
-[Demo] [Repository]
+demo: https://drive.google.com/file/d/1xQK8TBfbG8EOfhWH5OhPXuROJuPUKveZ/view?usp=sharing
+repo: https://github.com/CoderKanha47/FLOW
 
 ### Sector Guard
 AI-powered expense reimbursement auditing platform
-[Demo] [Repository]
+demo: https://drive.google.com/file/d/1V6V9mN9YMfROpAhFKcpAA2eQJZwQUSXZ/view?usp=sharing
+repo: https://github.com/CoderKanha47/sector-guard
 
 ### Silent Cartographer
 AI-assisted logistics document verification
-[Demo] [Repository]
+demo: https://drive.google.com/file/d/1Rtab7_L69nrHyldszQFVoiFYHdfW6X62/view?usp=sharing
+repo: https://github.com/CoderKanha47/Silent-Cartographer
 
 ## Tech
 
