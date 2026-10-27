@@ -22,11 +22,6 @@ AI-powered expense reimbursement auditing platform <br>
 demo: https://drive.google.com/file/d/1V6V9mN9YMfROpAhFKcpAA2eQJZwQUSXZ/view?usp=sharing <br>
 repo: https://github.com/CoderKanha47/sector-guard
 
-### Silent Cartographer
-AI-assisted logistics document verification <br>
-demo: https://drive.google.com/file/d/1Rtab7_L69nrHyldszQFVoiFYHdfW6X62/view?usp=sharing <br>
-repo: https://github.com/CoderKanha47/Silent-Cartographer
-
 ## Tech
 
 TypeScript · JavaScript · Python
